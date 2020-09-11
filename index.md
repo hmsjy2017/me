@@ -33,7 +33,7 @@ Twitter:`hmsjy2017`
 [0xJacky][7]  
 [Sunbelife][8]
 
-Click [here](https://github.com/hmsjy2017/me/docs/edit/master/README.md) to edit this page.
+Click [here](https://github.com/hmsjy2017/me/docs/edit/master/index.md) to edit this page.
 
 <p align="center">© Tony's Place 2018-2020 ·</p> 
 
